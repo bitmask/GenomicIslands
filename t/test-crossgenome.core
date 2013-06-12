@@ -1,0 +1,33 @@
+#$San_Juan->{min_gap_between_genes} = 0;
+#$San_Juan->{max_gap_between_genes} = 2000;
+#$San_Juan->{gap_slack} = 1;
+#$San_Juan->{min_island_length} = 3;
+#$San_Juan->{max_island_length} = 5;
+#$San_Juan->{slack_missing_genomes} = 1;
+
+# island -.-.- in all genomes
+>YY1000.1 ID="CDS_101000-102000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY1000.2 ID="CDS_103000-104000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY1000.3 ID="CDS_104500-106000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# island -.-.- in all genomes
+>YY1000.1 ID="CDS_201000-202000" Function="Cluster CL1000" Description="Photobacterium profundum" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY1000.1 ID="CDS_301000-302000" Function="Cluster CL1000" Description="Photobacterium profundum" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY1000.2 ID="CDS_303000-304000" Function="Cluster CL1000" Description="Photobacterium profundum" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY1000.3 ID="CDS_305000-306000" Function="Cluster CL1000" Description="Photobacterium profundum" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# island -.-.- only in one genome
+>NN2000.1 ID="CDS_401000-402000" Function="Cluster CL1000" Description="Photobacterium profundum" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN2000.2 ID="CDS_403000-404000" Function="Cluster CL1000" Description="Photobacterium profundum" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN2000.3 ID="CDS_405000-406000" Function="Cluster CL1000" Description="Photobacterium profundum" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# island -.-.- in all genomes
+>YY1000.1 ID="CDS_101000-102000" Function="Cluster CL1000" Description="Escherichia coli" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY1000.2 ID="CDS_103000-104000" Function="Cluster CL1000" Description="Escherichia coli" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY1000.3 ID="CDS_104500-106000" Function="Cluster CL1000" Description="Escherichia coli" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# island -.-.- plus one domain
+>YY1000.1 ID="CDS_101000-102000" Function="Cluster CL1000" Description="Salmonella typhi" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY1000.2 ID="CDS_103000-104000" Function="Cluster CL1000" Description="Salmonella typhi" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY1000.3 ID="CDS_104500-106000" Function="Cluster CL1000" Description="Salmonella typhi" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY1000.4 ID="CDS_107000-108000" Function="Cluster CL1000" Description="Salmonella typhi" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"

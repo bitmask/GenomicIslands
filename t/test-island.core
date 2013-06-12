@@ -1,0 +1,88 @@
+#$Haida_Gwaii->{min_gap_between_genes} = 0;
+#$Haida_Gwaii->{max_gap_between_genes} = 2000;
+#$Haida_Gwaii->{gap_slack} = 1;
+#$Haida_Gwaii->{min_island_length} = 3;
+#$Haida_Gwaii->{max_island_length} = 5;
+
+# yes -.-.-
+>YY1000.1 ID="CDS_101000-102000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY1000.2 ID="CDS_103000-104000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY1000.3 ID="CDS_104500-106000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# yes -.-.-
+>YY2000.1 ID="CDS_201000-202000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY2000.2 ID="CDS_203000-204000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY2000.3 ID="CDS_205000-206000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# no -.-.-.-.-.-
+>NN1000.1 ID="CDS_401000-402000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN1000.2 ID="CDS_403000-404000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>NN1000.3 ID="CDS_405000-406000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN1000.4 ID="CDS_407000-408000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>NN1000.5 ID="CDS_409000-410000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>NN1000.6 ID="CDS_411000-412000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# no _
+>NN2000.1 ID="CDS_501000-502000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+
+# no _._
+>NN3000.1 ID="CDS_601000-602000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN3000.2 ID="CDS_603000-604000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+
+# yes _._._._._
+>YY3000.1 ID="CDS_701000-702000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY3000.2 ID="CDS_703000-704000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY3000.3 ID="CDS_705000-706000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY3000.4 ID="CDS_707000-708000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY3000.5 ID="CDS_709000-710000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# yes _.._._._._
+>YY4000.1 ID="CDS_801000-802000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY4000.2 ID="CDS_805000-806000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY4000.3 ID="CDS_807000-808000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY4000.4 ID="CDS_809000-810000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY4000.5 ID="CDS_811000-812000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# yes _._._._.._
+>YY5000.1 ID="CDS_901000-902000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY5000.2 ID="CDS_903000-904000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY5000.3 ID="CDS_905000-906000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY5000.4 ID="CDS_907000-908000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY5000.5 ID="CDS_911000-912000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# yes _._.._._._
+>YY6000.1 ID="CDS_1001000-1002000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY6000.2 ID="CDS_1003000-1004000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY6000.3 ID="CDS_1009000-1010000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY6000.4 ID="CDS_1011000-1012000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY6000.5 ID="CDS_1013000-1014000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+
+# yes _.._._
+>YY7000.1 ID="CDS_1101000-1102000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY7000.2 ID="CDS_1105000-1106000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY7000.3 ID="CDS_1107000-1108000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+
+# yes _.._.._._._.._
+>YY8000.1 ID="CDS_1201000-1202000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY8000.2 ID="CDS_1205000-1206000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>YY8000.3 ID="CDS_1209000-1210000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY8000.4 ID="CDS_1211000-1212000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY8000.5 ID="CDS_1213000-1214000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY8000.6 ID="CDS_1215000-1216000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>YY8000.7 ID="CDS_1219000-1220000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+
+# no _.._.._.._
+>NN4000.1 ID="CDS_1301000-1302000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN4000.2 ID="CDS_1305000-1306000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>NN4000.3 ID="CDS_1309000-1310000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN4000.4 ID="CDS_1313000-1314000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+
+# no _.._._._._._  <-- questionable
+>NN5000.1 ID="CDS_1401000-1402000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN5000.2 ID="CDS_1405000-1406000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159869_1.proteins.fsa.2.profiles"
+>NN5000.3 ID="CDS_1407000-1408000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN5000.4 ID="CDS_1409000-1410000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN5000.5 ID="CDS_1411000-1412000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+>NN5000.5 ID="CDS_1413000-1414000" Function="Cluster CL1000" Description="Vibrio cholerae" PID="PanFunPro_Chr1/PRJNA159541_1.proteins.fsa.1.profiles"
+
+
